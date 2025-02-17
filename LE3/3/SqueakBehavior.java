@@ -1,0 +1,3 @@
+interface SqueakBehavior{
+    void squeak();
+}
